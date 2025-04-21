@@ -1,7 +1,9 @@
 Telco Customer Churn Prediction
-Project Type
-Classification
+
+Project Type (Classification)
+
 Project Summary
+
 The Telco Customer Churn Prediction project aims to address a critical challenge in the telecom industry: customer churn. By building predictive models and analyzing historical customer data, this project provides insights into the factors driving churn and enables proactive measures to retain customers and enhance profitability
 
 Key Objectives
